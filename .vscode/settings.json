@@ -1,0 +1,11 @@
+{
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "pthread.h": "c"
+    }
+}
